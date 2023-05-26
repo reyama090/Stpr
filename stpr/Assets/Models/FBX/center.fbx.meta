@@ -37,6 +37,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: hoshi_yuka
+    second: {fileID: 2100000, guid: 883d7db6dd774fd44abfae5b23847f0a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: rock
     second: {fileID: 2100000, guid: 8d14c8f62cb1e7c469b95223f6bb31b8, type: 2}
   - first:
