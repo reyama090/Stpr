@@ -312,6 +312,16 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 4840000592073314708, guid: ba6b8ebb7631478409b7c200230e34ae,
+        type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4840000592073314708, guid: ba6b8ebb7631478409b7c200230e34ae,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8712ecf7d05a9c04bae5260a9adf80d8, type: 2}
     - target: {fileID: 6094984577667223744, guid: ba6b8ebb7631478409b7c200230e34ae,
         type: 3}
       propertyPath: m_StaticEditorFlags
