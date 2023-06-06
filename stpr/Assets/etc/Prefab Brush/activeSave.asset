@@ -14,11 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabList: []
   prefabData:
-  - prefab: {fileID: 1207719635271791738, guid: 394adb5a58c0197498df6f7e47005ffd,
-      type: 3}
+  - prefab: {fileID: 567828405796981413, guid: 38591d46b4839234c8300aff3195b3e2, type: 3}
     selected: 1
   paintType: 0
-  brushSize: 2.18
+  brushSize: 0.9
   minBrushSize: 0.1
   maxBrushSize: 20
   paintDeltaDistance: 3
@@ -68,7 +67,7 @@ MonoBehaviour:
   minZScale: 1
   maxZScale: 1
   parentList: []
-  eraseBrushSize: 8.77
+  eraseBrushSize: 9.97
   minEraseBrushSize: 0.1
   maxEraseBrushSize: 20
   eraseType: 0
