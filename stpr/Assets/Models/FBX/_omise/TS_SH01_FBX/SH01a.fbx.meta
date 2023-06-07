@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 7308753495ec5c245851f8a306393919
+guid: 85a7067be2bddfe4890a420083d38a23
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable: []
@@ -7,28 +7,33 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: GroundFloor_SH02_Glass
-    second: {fileID: 2100000, guid: 8ab65955358769242b99c234a0e2e382, type: 2}
+      name: GroundFloor_SH01_Glass.001
+    second: {fileID: 2100000, guid: 5181397e6b58ebb4aadf122bf20397c3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: GroundFloor_SH02_Inside
-    second: {fileID: 2100000, guid: a7ba8c9a557b75348af96020585c7f8f, type: 2}
+      name: GroundFloor_SH01_Inside.001
+    second: {fileID: 2100000, guid: aa8c85bfe27f18d4a89781277b3240f4, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: GroundFloor_SH02_Middle
-    second: {fileID: 2100000, guid: 2bd27dbe7451f1e44923f7cac66e2320, type: 2}
+      name: GroundFloor_SH01_Middle.001
+    second: {fileID: 2100000, guid: a30d8b925bcf13a4296c49a09d874d2f, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: GroundFloor_SH02_WallFront
-    second: {fileID: 2100000, guid: ba62f0a11fbfa4e49adf35a40cb9de40, type: 2}
+      name: GroundFloor_SH01_Stool.001
+    second: {fileID: 2100000, guid: 39a05e528408ef347b4f75d015d648ea, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
-      name: GroundFloor_SH02_WallSide
-    second: {fileID: 2100000, guid: b0fd0963146f2b14db3723b35f82d60b, type: 2}
+      name: GroundFloor_SH01_WallFront.001
+    second: {fileID: 2100000, guid: 1182dea42ce6c0649aa694adca2f5d11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GroundFloor_SH01_WallSide.001
+    second: {fileID: 2100000, guid: 7f4219171fe265c4581a5c16b710d2cc, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
