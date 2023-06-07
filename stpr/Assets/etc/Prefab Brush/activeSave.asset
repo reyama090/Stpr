@@ -14,19 +14,19 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabList: []
   prefabData: []
-  paintType: 0
+  paintType: 1
   brushSize: 1
   minBrushSize: 0.1
   maxBrushSize: 20
-  paintDeltaDistance: 0.4
+  paintDeltaDistance: 1.084
   maxPaintDeltaDistance: 3
   minPaintDeltaDistance: 0.1
   prefabsPerStroke: 1
   maxprefabsPerStroke: 20
   minprefabsPerStroke: 1
-  spawnHeight: 10
+  spawnHeight: 1.1
   addRigidbodyToPaintedPrefab: 1
-  physicsIterations: 100
+  physicsIterations: 166.24
   checkLayer: 0
   checkTag: 0
   checkSlope: 0
@@ -40,10 +40,10 @@ MonoBehaviour:
   maxRequiredSlope: 0
   prefabOriginOffset: {x: 0, y: 0.1, z: 0}
   prefabRotationOffset: {x: 0, y: 0, z: 0}
-  draggingAction: 1
+  draggingAction: 0
   rotationAxis: 0
   rotationSensitivity: 10
-  parentingStyle: 0
+  parentingStyle: 2
   parent: {fileID: 0}
   rotateToMatchSurface: 0
   rotateSurfaceDirection: 0
