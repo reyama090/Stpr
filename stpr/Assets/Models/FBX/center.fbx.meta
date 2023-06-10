@@ -52,6 +52,11 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: hunnsui_creem
+    second: {fileID: 2100000, guid: 1f4763f72c167fe45a6463305539b439, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: hunsui
     second: {fileID: 2100000, guid: 5d43925711a34c645abdab0ae164a269, type: 2}
   - first:
