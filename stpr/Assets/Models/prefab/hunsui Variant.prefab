@@ -95,7 +95,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 7cbb571acb9a18244a135172d7cd70c5,
         type: 3}
       propertyPath: m_Name
-      value: hunsui Variant
+      value: hunsui
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 7cbb571acb9a18244a135172d7cd70c5,
         type: 3}
@@ -112,5 +112,10 @@ PrefabInstance:
       propertyPath: m_StaticEditorFlags
       value: 2147483647
       objectReference: {fileID: 0}
+    - target: {fileID: 4840000592073314708, guid: 7cbb571acb9a18244a135172d7cd70c5,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 8712ecf7d05a9c04bae5260a9adf80d8, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 7cbb571acb9a18244a135172d7cd70c5, type: 3}
