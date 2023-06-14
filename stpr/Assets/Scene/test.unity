@@ -22805,6 +22805,75 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 58ae40d5dc7595c48a1391c64b2d5fe5, type: 3}
+--- !u!1001 &2070335985274356868
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2722211281070739818, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 2722211281070739818, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -0.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 2722211281070739818, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2722211281070739818, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -14.65
+      objectReference: {fileID: 0}
+    - target: {fileID: 2722211281070739818, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7049285
+      objectReference: {fileID: 0}
+    - target: {fileID: 2722211281070739818, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2722211281070739818, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.70927835
+      objectReference: {fileID: 0}
+    - target: {fileID: 2722211281070739818, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2722211281070739818, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2722211281070739818, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 90.352
+      objectReference: {fileID: 0}
+    - target: {fileID: 2722211281070739818, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3354315376509324240, guid: bbc97cdab01eeba40b37abca0b884148,
+        type: 3}
+      propertyPath: m_Name
+      value: food_truck
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: bbc97cdab01eeba40b37abca0b884148, type: 3}
 --- !u!1001 &3213694951267425112
 PrefabInstance:
   m_ObjectHideFlags: 0
