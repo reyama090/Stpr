@@ -332,6 +332,16 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: dai
+    second: {fileID: 2100000, guid: a06eb7280f2a23f4db55e197abe6abd4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hunsui
+    second: {fileID: 2100000, guid: 4e8aea9998c2a8d4599aa560410ace45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: ikegaki
     second: {fileID: 2100000, guid: 89b1d6757ea58cc4a96c0a9731f8e08a, type: 2}
   - first:

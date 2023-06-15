@@ -14,9 +14,23 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   prefabList: []
   prefabData:
-  - prefab: {fileID: 633316707852660641, guid: d5f737138ae9dc646aca40cae472ee08, type: 3}
+  - prefab: {fileID: 1760175947920198, guid: fded08e8410875d44b61d25fc66eb6de, type: 3}
     selected: 1
-  paintType: 0
+  - prefab: {fileID: 1125480567556732, guid: 9fc7e78846ce08d4491d4d4e45724bbb, type: 3}
+    selected: 1
+  - prefab: {fileID: 1848734062128036, guid: 860583af96d009042a3b060497e32cda, type: 3}
+    selected: 1
+  - prefab: {fileID: 1431361452022924, guid: 676e221c17d6f024abc877e970e30a04, type: 3}
+    selected: 1
+  - prefab: {fileID: 1615611370356266, guid: 955b07ab98b590643be9e3d2e9fb7597, type: 3}
+    selected: 1
+  - prefab: {fileID: 1612707757491080, guid: 31bb285121bc5f44b8597bc9cb1e3b08, type: 3}
+    selected: 1
+  - prefab: {fileID: 1199937139217510, guid: 240c31290dd88c340b202eede4acc0d6, type: 3}
+    selected: 1
+  - prefab: {fileID: 1507006129236536, guid: 1a1f4436220def04aae417f6a9a77450, type: 3}
+    selected: 1
+  paintType: 1
   brushSize: 0.57
   minBrushSize: 0.1
   maxBrushSize: 20
