@@ -109,21 +109,21 @@ Material:
     - _ZTestGBuffer: 4
     - _ZTestTransparent: 4
     - _ZWrite: 0
-    - _alphapower: 1.5
+    - _alphapower: 2
     - _bottomstrength: 10
     - _erosion: 0
     - _noisesize: 20
     - _ripplesamount: 0.8
     - _vertexoffset: 0.1
-    - _voronoiscale: 25
-    - _voronoispeed: 30
+    - _voronoiscale: 40
+    - _voronoispeed: 10
     m_Colors:
     - _Color: {r: 0, g: 0, b: 0, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _bottomcoloe: {r: 1, g: 1, b: 1, a: 1}
     - _emission: {r: 1024, g: 0, b: 0, a: 1}
-    - _ripplescolor: {r: 0.33641866, g: 0.5158047, b: 0.6792453, a: 1}
+    - _ripplescolor: {r: 0.40806338, g: 0.54147077, b: 0.6603774, a: 1}
     - _ripplescolor_1: {r: 0.4292453, g: 0.6709765, b: 1, a: 1}
-    - _ripplesspeed: {r: 0, g: 1.2, b: 0, a: 0}
+    - _ripplesspeed: {r: 0, g: 0.7, b: 0, a: 0}
   m_BuildTextureStacks: []
