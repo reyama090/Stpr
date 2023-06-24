@@ -19,6 +19,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: 3_body
     second: {fileID: 2100000, guid: 9be78b82f17e9544da4831cd309529b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 4_popcorn
+    second: {fileID: 2100000, guid: 54b8e4f4d15afc8488137a2dbbce0fb2, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
