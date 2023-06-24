@@ -12147,6 +12147,7 @@ MonoBehaviour:
   m_Script: {fileID: 1664060060}
   m_Name: 
   m_EditorClassIdentifier: 
+  m_Entries: []
 --- !u!4 &990895596
 Transform:
   m_ObjectHideFlags: 19
@@ -23500,6 +23501,58 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1884612401}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1889788598
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1889788600}
+  - component: {fileID: 1889788599}
+  m_Layer: 0
+  m_Name: hap
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &1889788599
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889788598}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f3775962864755b43a790abf4d029c32, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _pathMode: 0
+  _filePath: waterfall_hap.mov
+  _time: 0
+  _speed: 1
+  _loop: 1
+  _targetTexture: {fileID: 8400000, guid: 12123f28f553d284b988ce3d9d5bb02c, type: 2}
+  _targetRenderer: {fileID: 0}
+  _targetMaterialProperty: _MainTex
+--- !u!4 &1889788600
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1889788598}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 26
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &1890695230 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 8064867121434909009, guid: aca2aa9146e8b794189c9ad2c8c5ecaa,
@@ -23932,6 +23985,57 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 6063011953796808757}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1958954436
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1958954438}
+  - component: {fileID: 1958954437}
+  m_Layer: 0
+  m_Name: New Timeline
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!320 &1958954437
+PlayableDirector:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1958954436}
+  m_Enabled: 1
+  serializedVersion: 3
+  m_PlayableAsset: {fileID: 11400000, guid: e482e86a9b76ffd428951fb7d209b759, type: 2}
+  m_InitialState: 1
+  m_WrapMode: 2
+  m_DirectorUpdateMode: 1
+  m_InitialTime: 0
+  m_SceneBindings: []
+  m_ExposedReferences:
+    m_References:
+    - c6180910c431e05419dd856bab6934de: {fileID: 1889788598}
+    - 4e6faccfc00a1094aa7de69a0afe99be: {fileID: 1889788598}
+--- !u!4 &1958954438
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1958954436}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 25
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &1967758851
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -26813,7 +26917,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 0dd6507c13434ee4ea85c2ff9232ce62, type: 2}
+      objectReference: {fileID: 2100000, guid: e82e954e6be317e4fbe1d5ac54941a57, type: 2}
     - target: {fileID: 1676976976783128427, guid: b5d2e02654023ee48a4b7cce827bfc16,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
