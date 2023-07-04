@@ -7,13 +7,43 @@ ModelImporter:
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: REd
+    second: {fileID: 2100000, guid: 1260cbdd62bc8684fb2c2b4a1a0916f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Seed
+    second: {fileID: 2100000, guid: 63a5e5c1b22ef5f44baa140df924f8b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cream
+    second: {fileID: 2100000, guid: a45d60abda6e56540b26203b271b1bdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cream_choco
+    second: {fileID: 2100000, guid: 845b5c5af5a822946aabd0edb88d2bbd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: hunnsui_creem
     second: {fileID: 2100000, guid: e31da0f46bd16824b9a70a97747507a2, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
+      name: hunnsui_creem_choco
+    second: {fileID: 2100000, guid: 706f578ef20ae714b97fcb25b64a9f29, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
       name: hunsui
     second: {fileID: 2100000, guid: 694fb30e998375f4e8af7e6fbcd1b1ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: inside
+    second: {fileID: 2100000, guid: 9bce1fc347836a24d837ea762341f941, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
