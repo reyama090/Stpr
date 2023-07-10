@@ -29,6 +29,11 @@ ModelImporter:
       assembly: UnityEngine.CoreModule
       name: YELLOW
     second: {fileID: 2100000, guid: 02edefa76dbb6444b8c2b6cf9b39ac6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yuka
+    second: {fileID: 2100000, guid: 6cbd071885fd7e441babb54509e37fc1, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
