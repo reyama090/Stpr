@@ -92,17 +92,17 @@ Material:
     - _ZTestGBuffer: 3
     - _ZTestTransparent: 4
     - _ZWrite: 0
-    - _metalic: 0.8
-    - _parallax_amplitude: 20
-    - _size: 1
-    - _smoothness: 0.6
-    - _step: 5
-    - _transparency: 0.6
+    - _metalic: 0.24
+    - _parallax_amplitude: 13.51
+    - _size: 3.9
+    - _smoothness: 0
+    - _step: 2.01
+    - _transparency: 0.371
     m_Colors:
-    - _Color: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 1, g: 1, b: 1, a: 0}
     - _DoubleSidedConstants: {r: 1, g: 1, b: -1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
-    - _emission: {r: 2.915341, g: 2.915341, b: 2.915341, a: 0}
+    - _emission: {r: 11.661364, g: 11.661364, b: 11.661364, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &1346838277196594719
 MonoBehaviour:
