@@ -27899,6 +27899,11 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 3667825426362329619, guid: 3583dc7c8ac5ef642bbaf2768f974a0c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 423a69a5583ff7044a7f53c108da359b, type: 2}
     - target: {fileID: 7427413342014896326, guid: 3583dc7c8ac5ef642bbaf2768f974a0c,
         type: 3}
       propertyPath: m_RootOrder
@@ -27959,6 +27964,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: coffee_cup
       objectReference: {fileID: 0}
+    - target: {fileID: 9048474769657552818, guid: 3583dc7c8ac5ef642bbaf2768f974a0c,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 423a69a5583ff7044a7f53c108da359b, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3583dc7c8ac5ef642bbaf2768f974a0c, type: 3}
 --- !u!1001 &2070335985274356868
