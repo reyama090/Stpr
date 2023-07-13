@@ -44,7 +44,7 @@ ModelImporter:
     second: //RootNode
   externalObjects: {}
   materials:
-    materialImportMode: 0
+    materialImportMode: 1
     materialName: 1
     materialSearch: 1
     materialLocation: 0
